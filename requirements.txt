@@ -1,0 +1,15 @@
+absl-py>=2.0.0
+cryptography
+ipykernel
+keras
+matplotlib
+notebook
+numpy
+pandas
+protobuf<6
+pysyft
+scikit-learn
+seaborn
+scipy
+tensorflow
+tensorflow-federated
